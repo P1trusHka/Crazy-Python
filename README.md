@@ -5,3 +5,7 @@
 
     * Practical lesson:
     [pract4.ipynb](https://github.com/P1trusHka/Crazy-Python/blob/main/pract4.ipynb)
+2. Test automation
+
+    * Practical lesson:
+    [pract5.ipynb](https://github.com/P1trusHka/Crazy-Python/blob/main/pract5.ipynb)
